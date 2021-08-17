@@ -79,6 +79,14 @@ const menu = [
       img: 'https://pbs.twimg.com/media/ET492qwWoAgs2s4.jpg',
       desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
     },
+     {
+      id: 11,
+      title: 'quarantine buddy',
+      category: 'brunch',
+      price: 6.99,
+      img: 'https://pbs.twimg.com/media/ET492qwWoAgs2s4.jpg',
+      desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+    },
   ];
   export default menu;
   
